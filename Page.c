@@ -1,5 +1,5 @@
 ﻿/**
-* @Student: Zhichao Cao
+* @author: Zhichao Cao
 */
 
 #include<stdio.h> 
